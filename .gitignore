@@ -1,0 +1,6 @@
+#ignores everything...
+*
+#except main.cpp, cstring.h and cstring.cpp
+!main.cpp
+!Array.h
+!.gitignore
